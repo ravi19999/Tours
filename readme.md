@@ -1,1 +1,1 @@
-# Production code for the natours project
+# Production code for the Natours project
